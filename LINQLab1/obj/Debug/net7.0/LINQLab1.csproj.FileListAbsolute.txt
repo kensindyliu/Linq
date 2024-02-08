@@ -1,0 +1,15 @@
+/Users/ken/Projects/LINQLab1/LINQLab1/bin/Debug/net7.0/LINQLab1
+/Users/ken/Projects/LINQLab1/LINQLab1/bin/Debug/net7.0/LINQLab1.deps.json
+/Users/ken/Projects/LINQLab1/LINQLab1/bin/Debug/net7.0/LINQLab1.runtimeconfig.json
+/Users/ken/Projects/LINQLab1/LINQLab1/bin/Debug/net7.0/LINQLab1.dll
+/Users/ken/Projects/LINQLab1/LINQLab1/bin/Debug/net7.0/LINQLab1.pdb
+/Users/ken/Projects/LINQLab1/LINQLab1/obj/Debug/net7.0/LINQLab1.csproj.AssemblyReference.cache
+/Users/ken/Projects/LINQLab1/LINQLab1/obj/Debug/net7.0/LINQLab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ken/Projects/LINQLab1/LINQLab1/obj/Debug/net7.0/LINQLab1.AssemblyInfoInputs.cache
+/Users/ken/Projects/LINQLab1/LINQLab1/obj/Debug/net7.0/LINQLab1.AssemblyInfo.cs
+/Users/ken/Projects/LINQLab1/LINQLab1/obj/Debug/net7.0/LINQLab1.csproj.CoreCompileInputs.cache
+/Users/ken/Projects/LINQLab1/LINQLab1/obj/Debug/net7.0/LINQLab1.dll
+/Users/ken/Projects/LINQLab1/LINQLab1/obj/Debug/net7.0/refint/LINQLab1.dll
+/Users/ken/Projects/LINQLab1/LINQLab1/obj/Debug/net7.0/LINQLab1.pdb
+/Users/ken/Projects/LINQLab1/LINQLab1/obj/Debug/net7.0/LINQLab1.genruntimeconfig.cache
+/Users/ken/Projects/LINQLab1/LINQLab1/obj/Debug/net7.0/ref/LINQLab1.dll
